@@ -31,17 +31,3 @@ Asistan, temel veri işleme süreçlerinde sistemin durumunu anlık olarak denet
 
 ### Algoritmik Akış Şeması
 
-```text
-[ Başla ]
-    │
-    ▼
-[ Değer Oku ]
-    │
-    ▼
-< Değer >= 50? >
-    ├── (Evet) ──► [ Uyarı: "Kritik Eşik" ] ──┐
-    │                                          │
-    └── (Hayır) ─► [ Durum: "Normal Akış" ] ───┤
-                                               │
-                                               ▼
-                                           [ DUR ]
