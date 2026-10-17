@@ -42,4 +42,6 @@ Asistan, temel veri işleme süreçlerinde sistemin durumunu anlık olarak denet
     ├── (Evet) ──► [ Uyarı: "Kritik Eşik" ] ──┐
     │                                          │
     └── (Hayır) ─► [ Durum: "Normal Akış" ] ───┤
+
+    ##Kaynakça: Programlama Temelleri Kitabı
                                
