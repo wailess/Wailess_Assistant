@@ -43,5 +43,8 @@ Asistan, temel veri işleme süreçlerinde sistemin durumunu anlık olarak denet
     │                                          │
     └── (Hayır) ─► [ Durum: "Normal Akış" ] ───┤
 ```
-**Kaynakça: Programlama Temelleri Kitabı**
+**Kaynakça: Lot Sistemleri ve Sensör Teknolojileri**
+```text
+https://robotiksystem.com/flowchart.jpg
+```
                                
