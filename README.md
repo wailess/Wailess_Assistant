@@ -3,7 +3,8 @@
 # Cod Assistant v1.0
 
 ## Genel Bakış
-Geliştirme süreçlerini hızlandırmak, tekrarlayan görevleri otomatikleştirmek ve gerçek zamanlı kod optimizasyonu sağlamak için tasarlanmış yüksek performanslı bir kodlama yardımcısıdır.
+```text
+Geliştirme süreçlerini hızlandırmak, tekrarlayan görevleri otomatikleştirmek ve gerçek zamanlı kod optimizasyonu sağlamak için tasarlanmış yüksek performanslı bir kodlama yardımcısıdır.```
 
 ## Temel Özellikler
 - **Anında Kod Analizi:** Kod tabanını performans darboğazları, sözdizimi hataları ve anti-pattern'ler açısından hızla tarar.
@@ -13,7 +14,8 @@ Geliştirme süreçlerini hızlandırmak, tekrarlayan görevleri otomatikleştir
 --------------------------------------------------------------------------------------------------------------------
 
 ## Projenin Amacı
-Kullanıcılara günlük kodlama ve veri işleme süreçlerinde (selamlama, hesaplama ve eşik kontrolü gibi) rehberlik edecek, işlevsel ve akıllı bir dijital asistan tasarlamaktır.
+
+**Kullanıcılara günlük kodlama ve veri işleme süreçlerinde (selamlama, hesaplama ve eşik kontrolü gibi) rehberlik edecek, işlevsel ve akıllı bir dijital asistan tasarlamaktır.**
 
 ## Projenin Hedefleri
 - **V1.0 Sürümü:** Akıllı menü entegrasyonu ve temel komut işleme altyapısının kurulması.
