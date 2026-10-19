@@ -1,6 +1,6 @@
 # **Project Creator: Wailess**
 
-# Cod Assistant v1.0
+# Wailess-Cod Assistant v1.0
 
 ### Genel Bakış
 **Geliştirme süreçlerini hızlandırmak, tekrarlayan görevleri otomatikleştirmek ve gerçek zamanlı kod optimizasyonu sağlamak için tasarlanmış yüksek performanslı bir kodlama yardımcısıdır.**
@@ -21,14 +21,14 @@
 - **V2.0 Sürümü:** Gelişmiş veri saklama, kalıcılık ve akış yönetimi özelliklerinin kazandırılması.
 
 ## Projenin Kapsamı ve Algoritmik Yapı
-Asistan, temel veri işleme süreçlerinde sistemin durumunu anlık olarak denetleyen algoritmik bir eşik kontrol mekanizmasını kapsamaktadır. Bu yapı temel olarak şu adımlardan oluşur:
+**Asistan, temel veri işleme süreçlerinde sistemin durumunu anlık olarak denetleyen algoritmik bir eşik kontrol mekanizmasını kapsamaktadır. Bu yapı temel olarak şu adımlardan oluşur;**
 
-1. Sürecin başlatılması (`Başla`)
-2. Kullanıcıdan veya sistemden değer okunması (`Oku değer`)
-3. Eşik analizi yapılması:
-   * Eğer değer 50 veya daha büyükse, sistem uyarı verir: **"Kritik Eşik"**
-   * Değilse, sistem normal akışına devam eder: **"Durum Normal"**
-4. Sürecin sonlandırılması (`DUR`)
+**1.** Sürecin başlatılması (`Başla`)
+**2.** Kullanıcıdan veya sistemden değer okunması (`Oku değer`)
+**3.** Eşik analizi yapılması:
+   * Eğer değer 50 veya daha büyükse, sistem uyarı verir: **"Durum: Kritik Eşik Müdahale Edin.."**
+   * Değilse, sistem normal akışına devam eder: **"Durum: Normal"**
+**4.** Sürecin sonlandırılması (`DUR`)
 
 ### Algoritmik Akış Şeması
 
@@ -44,8 +44,4 @@ Asistan, temel veri işleme süreçlerinde sistemin durumunu anlık olarak denet
     │                                          │
     └── (Hayır) ─► [ Durum: "Normal Akış" ] ───┤
 ```
-**Kaynakça: Lot Sistemleri ve Sensör Teknolojileri**
-```text
-https://robotiksystem.com/flowchart.jpg
-```
-                               
+**Kaynakça: Lot Sistemleri ve Sensör Teknolojileri ve Programlama Temelleri Ders Kitabı**  
