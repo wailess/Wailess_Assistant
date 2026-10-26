@@ -7,7 +7,7 @@
 
 ## Temel Özellikler
 - **Anında Kod Analizi:** Kod tabanını performans darboğazları, sözdizimi hataları ve anti-pattern'ler açısından hızla tarar.
-- **Akıllı Yeniden Düzenleme (Refactoring):** Kod parçacıklarını daha iyi okunabilirlik ve performans için temiz bir şekilde yeniden yazar.
+- **Akıllı Yeniden Düzenleme:** Kod parçacıklarını daha iyi okunabilirlik ve performans için temiz bir şekilde yeniden yazar.
 - **Bağlam Farkındalıklı Öneriler:** Proje mimarinize özel, hassas ve nokta atışı tamamlamalar sunar.
 
 --------------------------------------------------------------------------------------------------------------------
@@ -44,4 +44,4 @@
     │                                          │
     └── (Hayır) ─► [ Durum: "Normal Akış" ] ───┤
 ```
-**Kaynakça: Lot Sistemleri ve Sensör Teknolojileri ve Programlama Temelleri Ders Kitabı**  
+
